@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/DalishaRivera/DalishaRivera.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Dalisha Rivera-Rodriguez. I am a Computer Science and Mathematics major with a Spanish minor. I am a rising Junior who is enrolled to attend Fayetteville State University this upcoming fall of 2017. I attended Hanover College my Freshman and Sophomore year where I took part in many extra curricular activities listed below. I was originially going to only major in Mathematics and minor in Spanish; however, as a cognitive course for math I had to take the introductary course to Computer Science my Sophomore year and knew I could not pass up the opportunity to make this a career so I picked it up as a major. In just that academic school year I proficiently learned Python, C++, and Java. I wanted to continue enhancing my newly developed skills so I participated in a summer internship for Software Security.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Project
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
