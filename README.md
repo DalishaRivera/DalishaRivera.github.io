@@ -5,7 +5,7 @@ My name is Dalisha Rivera-Rodriguez. I am a Senior who is currently enrolled at 
 ## Internships
 North Carolina Consortium for Self-Aware Machining and Metrology (December 2018 - Present)
 
-The research I am involved in will generate new knowledge in the application of artificial intelligence to high precision part manufacture and measurment. I will specifically be working on creating concepts and ideas on how to develop a self aware machine that will have the ability to understand its current state and its surroundings with high accuracy. By doing so, the self aware machine will be able to analyze any engineering part and determine if it is up to standard or not. The goal for this research is to find a strategy that will enable manufacturing companies to overcome human internvention limitations and make the manufacturing process more effiecient. 
+The research I am involved in will generate new knowledge in the application of artificial intelligence to high precision part manufacture and measurment. I will specifically be working on creating concepts and ideas on how to develop a self aware machine that will have the ability to understand its current state and its surroundings with high accuracy. By doing so, the self aware machine will be able to analyze any engineering part and determine if it is up to standard or not. The goal for this research is to find a strategy that will enable manufacturing companies to overcome human intervention limitations and make the manufacturing process more efficient. 
 
 Software Security (Summer 2017)
 
